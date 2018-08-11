@@ -1,0 +1,21 @@
+C:\Users\Serap\Desktop\nesne\proje\yolcuDoldur\yolcuDoldur\bin\Debug\yolcuDoldur.exe.config
+C:\Users\Serap\Desktop\nesne\proje\yolcuDoldur\yolcuDoldur\bin\Debug\yolcuDoldur.exe
+C:\Users\Serap\Desktop\nesne\proje\yolcuDoldur\yolcuDoldur\bin\Debug\yolcuDoldur.pdb
+C:\Users\Serap\Desktop\nesne\proje\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.Form1.resources
+C:\Users\Serap\Desktop\nesne\proje\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.exe
+C:\Users\Serap\Desktop\nesne\proje\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.pdb
+C:\Users\Serap\Desktop\yolcuDoldur\yolcuDoldur\bin\Debug\yolcuDoldur.exe.config
+C:\Users\Serap\Desktop\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.exe
+C:\Users\Serap\Desktop\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.pdb
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yolcuDoldur\yolcuDoldur\bin\Debug\yolcuDoldur.exe.config
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yolcuDoldur\yolcuDoldur\bin\Debug\yolcuDoldur.exe
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yolcuDoldur\yolcuDoldur\bin\Debug\yolcuDoldur.pdb
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.Form1.resources
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.Properties.Resources.resources
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.exe
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yolcuDoldur\yolcuDoldur\obj\Debug\yolcuDoldur.pdb

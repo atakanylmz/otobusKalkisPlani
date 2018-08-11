@@ -1,0 +1,36 @@
+C:\Users\Serap\Desktop\nesne\proje\yapayZekaProje\yapayZekaProje\bin\Debug\yapayZekaProje.exe.config
+C:\Users\Serap\Desktop\nesne\proje\yapayZekaProje\yapayZekaProje\bin\Debug\yapayZekaProje.exe
+C:\Users\Serap\Desktop\nesne\proje\yapayZekaProje\yapayZekaProje\bin\Debug\yapayZekaProje.pdb
+C:\Users\Serap\Desktop\nesne\proje\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.Form1.resources
+C:\Users\Serap\Desktop\nesne\proje\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.exe
+C:\Users\Serap\Desktop\nesne\proje\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.pdb
+C:\Users\Serap\Desktop\yapayZekaProje(exesiz)\yapayZekaProje\bin\Debug\yapayZekaProje.exe.config
+C:\Users\Serap\Desktop\yapayZekaProje(exesiz)\yapayZekaProje\obj\Debug\yapayZekaProje.exe
+C:\Users\Serap\Desktop\yapayZekaProje(exesiz)\yapayZekaProje\obj\Debug\yapayZekaProje.pdb
+C:\Users\Serap\Desktop\yapayZekaProje(exesiz)\yapayZekaProje\bin\Debug\yapayZekaProje.exe
+C:\Users\Serap\Desktop\yapayZekaProje(exesiz)\yapayZekaProje\bin\Debug\yapayZekaProje.pdb
+C:\Users\Serap\Desktop\yapayZekaProje(exesiz)\yapayZekaProje\obj\Debug\yapayZekaProje.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\yapayZekaProje(exesiz)\yapayZekaProje\obj\Debug\yapayZekaProje.Form1.resources
+C:\Users\Serap\Desktop\yapayZekaProje(exesiz)\yapayZekaProje\obj\Debug\yapayZekaProje.Properties.Resources.resources
+C:\Users\Serap\Desktop\yapayZekaProje(exesiz)\yapayZekaProje\obj\Debug\yapayZekaProje.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\yapayZekaProje(exeli)\yapayZekaProje\bin\Debug\yapayZekaProje.exe.config
+C:\Users\Serap\Desktop\yapayZekaProje(exeli)\yapayZekaProje\obj\Debug\yapayZekaProje.exe
+C:\Users\Serap\Desktop\yapayZekaProje(exeli)\yapayZekaProje\obj\Debug\yapayZekaProje.pdb
+C:\Users\Serap\Desktop\yapayZekaProje(exeli)\yapayZekaProje\bin\Debug\yapayZekaProje.exe
+C:\Users\Serap\Desktop\yapayZekaProje(exeli)\yapayZekaProje\bin\Debug\yapayZekaProje.pdb
+C:\Users\Serap\Desktop\yapayZekaProje(exeli)\yapayZekaProje\obj\Debug\yapayZekaProje.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\yapayZekaProje(exeli)\yapayZekaProje\obj\Debug\yapayZekaProje.Form1.resources
+C:\Users\Serap\Desktop\yapayZekaProje(exeli)\yapayZekaProje\obj\Debug\yapayZekaProje.Properties.Resources.resources
+C:\Users\Serap\Desktop\yapayZekaProje(exeli)\yapayZekaProje\obj\Debug\yapayZekaProje.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yapayZekaProje\yapayZekaProje\bin\Debug\yapayZekaProje.exe.config
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.pdb
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yapayZekaProje\yapayZekaProje\bin\Debug\yapayZekaProje.exe
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yapayZekaProje\yapayZekaProje\bin\Debug\yapayZekaProje.pdb
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.Form1.resources
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.Properties.Resources.resources
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\Git için\yapay zeka projenin tamamı\yapay zeka projenin tamamı\yapayZekaProje\yapayZekaProje\obj\Debug\yapayZekaProje.exe
